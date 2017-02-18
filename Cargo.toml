@@ -1,0 +1,6 @@
+[package]
+name = "chip-rs"
+version = "0.1.0"
+authors = ["Tom Midson <midson.trc@gmail.com>"]
+
+[dependencies]
